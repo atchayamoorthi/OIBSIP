@@ -6,11 +6,6 @@ UFW (Uncomplicated Firewall) is a simplified frontend for Linux's netfilter/ipta
 packet filtering system. It lets you allow or deny network traffic based on port,
 protocol, and source address, without writing raw iptables rules directly.
 
-Why Firewalls Matter
-
-[Write 2-3 sentences in your own words: what does a firewall actually protect you
-from, and how does this connect to what you found in Task 1's Nmap scan?]
-
 Ethical Use Guidelines
 
 This task was performed exclusively on my own Kali Linux VM in an isolated VirtualBox
