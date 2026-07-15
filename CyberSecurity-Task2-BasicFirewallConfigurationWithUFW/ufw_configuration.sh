@@ -25,6 +25,7 @@ ufw allow https
 ufw deny http
 ufw deny 23
 ufw allow from 10.0.2.0/24 to any port 3389
+ufw deny from 192.168.100.0/24
  
 echo "final rules:"
 ufw status numbered
