@@ -71,12 +71,17 @@ Modern organizations depend on networks for nearly everything: customer transact
 2. **Weak defaults are the common thread.** Default IoT passwords enabled Mirai; unauthenticated, internet-exposed UDP services enabled the GitHub attack; a fixed transaction ID space enabled the Kaminsky DNS bug. Hardening default configurations closes a disproportionate share of real-world attack paths.
 3. **No single control is sufficient — defense-in-depth is required.** Each threat in this report has multiple layered mitigations (filtering, authentication, cryptographic validation, redundancy) because relying on one control alone has repeatedly failed in real incidents.
 
-## References
 
-1. National Institute of Standards and Technology (NIST) — Denial of Service glossary and SP 800-189, *Resilient Interdomain Traffic Exchange*. https://csrc.nist.gov/glossary/term/denial_of_service
-2. Cybersecurity and Infrastructure Security Agency (CISA) — *Heightened DDoS Threat Posed by Mirai and Other Botnets*. https://www.cisa.gov/news-events/alerts/2016/10/14/heightened-ddos-threat-posed-mirai-and-other-botnets
-3. MITRE ATT&CK — Network Denial of Service (T1498) and Adversary-in-the-Middle (T1557). https://attack.mitre.org
-4. Krebs on Security — coverage of the 2016 Mirai botnet DDoS campaign. https://krebsonsecurity.com
-5. GitHub Engineering Blog / Sam Kottler — analysis of the February 2018 Memcached DDoS attack on GitHub.
-6. Kaminsky, D. — *Black Ops 2008: It's the End of the Cache as We Know It*, Black Hat 2008 (original DNS cache poisoning vulnerability disclosure).
+
+References
+
+Wikipedia — Denial-of-service attack. https://en.wikipedia.org/wiki/Denial-of-service_attack
+YouTube (Computerphile) — The Attack That Could Disrupt The Whole Internet. https://www.youtube.com/watch?v=BcDZS7iYNsA
+Wikipedia — Man-in-the-middle attack. https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+YouTube (Computerphile) — Man in the Middle Attacks & Superfish. https://www.youtube.com/watch?v=-enHfpHMBo4
+Wikipedia — IP address spoofing. https://en.wikipedia.org/wiki/IP_address_spoofing
+YouTube — Module 7: What is IP Spoofing?. https://www.youtube.com/watch?v=zopRwR0yhlg
+Wikipedia — DNS spoofing. https://en.wikipedia.org/wiki/DNS_spoofing
+YouTube (Computerphile) — DNS Cache Poisoning. https://www.youtube.com/watch?v=7MT1F0O3_Yw
+Google Search — used to locate the Wikipedia and YouTube sources above.
 
