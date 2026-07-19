@@ -122,18 +122,6 @@ The report includes:
 
 ---
 
-# 📂 Repository Structure
-
-```
-Task-5/
-│
-├── README.md
-├── Research_Report_Social_Engineering_Attacks.pdf
-└── Research_Report_Social_Engineering_Attacks.docx
-```
-
----
-
 # 🛠 Skills Gained
 
 - Cybersecurity Research
@@ -160,7 +148,6 @@ After completing this task, I learned:
 
 # 🚀 Tools Used
 
-- Microsoft Word
 - Google Chrome
 - Internet Research
 - GitHub
