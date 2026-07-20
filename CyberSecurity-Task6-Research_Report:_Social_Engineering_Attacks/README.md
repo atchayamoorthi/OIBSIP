@@ -65,7 +65,7 @@ difference between a vulnerability existing and a vulnerability being exploited?
 role does organizational process — not just technology — play in closing that gap?]
 
 ## How to Review This Report
-Open [`patch_management_report.md`](./patch_management_report.md) to read the full
+Open [`patch_management_report.md`](./social_engineering_report.md) to read the full
 report.
 
 
