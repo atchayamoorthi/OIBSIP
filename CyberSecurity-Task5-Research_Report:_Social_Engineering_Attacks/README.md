@@ -169,23 +169,6 @@ After completing this task, I learned:
 
 ---
 
-# 📸 Project Preview
-
-```
-Research Report
-│
-├── Introduction
-├── Phishing
-├── Pretexting
-├── Baiting
-├── Quid Pro Quo
-├── Comparison Table
-├── Security Recommendations
-└── References
-```
-
----
-
 # 📖 Conclusion
 
 Social Engineering remains one of the most effective attack methods because it targets people rather than technology. By understanding common attack techniques such as phishing, pretexting, baiting, and quid pro quo, individuals and organizations can better recognize threats and reduce the risk of security breaches.
