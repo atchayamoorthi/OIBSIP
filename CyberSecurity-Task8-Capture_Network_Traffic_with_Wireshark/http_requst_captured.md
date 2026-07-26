@@ -20,5 +20,4 @@ Wireshark's dissector fully decoded the HTML form body, exposing:
 
 The raw hex/ASCII pane confirms the same data appears as literal cleartext bytes on the
 wire (`username=admin&password=password&Login=Login...`), along with a visible
-`Cookie: PHPSESSID=...` header carrying the active session identifier.
-
+`Cookie: PHPSESSID=...` header carrying the active session identifie
