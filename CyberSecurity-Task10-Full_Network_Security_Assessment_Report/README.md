@@ -42,3 +42,6 @@ Full detail is in the Technical Report; a plain-language summary is in the Execu
 
 ## Ethical Use Statement
 This assessment was performed exclusively against systems owned and controlled by the author, within an isolated VirtualBox lab environment. No external, production, or third-party systems were scanned or accessed. Unauthorized scanning or traffic interception of systems without explicit permission may violate laws such as the Computer Fraud and Abuse Act (US) or the Information Technology Act, 2000 (India), regardless of whether exploitation occurs.
+
+## VEDIO CAPTURED: 
+chick here : https://www.linkedin.com/posts/atchaya-moorthi-j-263300382_cybersecurity-oasisinfobyte-internship-ugcPost-7488549320884142080-Cfuv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF5fhWsBgX0SZVxvEtQfxjLRWLlC29hIxpQ
