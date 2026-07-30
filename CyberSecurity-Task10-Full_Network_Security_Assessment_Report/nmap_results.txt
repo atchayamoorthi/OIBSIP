@@ -1,0 +1,27 @@
+# Nmap 7.99 scan initiated Thu Jul 30 03:36:26 2026 as: /usr/lib/nmap/nmap -sV -O -o nmap_results.txt 10.0.2.15
+Nmap scan report for 10.0.2.15
+Host is up (0.00023s latency).
+Not shown: 988 closed tcp ports (reset)
+PORT     STATE SERVICE       VERSION
+21/tcp   open  ftp           FileZilla ftpd 0.9.41 beta
+25/tcp   open  smtp          Mercury/32 smtpd (Mail server account Maiser)
+79/tcp   open  finger        Mercury/32 fingerd
+80/tcp   open  http          Apache httpd 2.4.58 ((Win64) OpenSSL/3.1.3 PHP/8.2.12)
+106/tcp  open  pop3pw        Mercury/32 poppass service
+110/tcp  open  pop3          Mercury/32 pop3d
+135/tcp  open  msrpc         Microsoft Windows RPC
+139/tcp  open  netbios-ssn   Microsoft Windows netbios-ssn
+143/tcp  open  imap          Mercury/32 imapd 4.62
+443/tcp  open  ssl/http      Apache httpd 2.4.58 ((Win64) OpenSSL/3.1.3 PHP/8.2.12)
+445/tcp  open  microsoft-ds?
+3306/tcp open  mysql         MariaDB 10.3.23 or earlier (unauthorized)
+MAC Address: 08:00:27:E6:30:F5 (Oracle VirtualBox virtual NIC)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 22H2
+Network Distance: 1 hop
+Service Info: Host: localhost; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Jul 30 03:36:43 2026 -- 1 IP address (1 host up) scanned in 17.47 seconds
