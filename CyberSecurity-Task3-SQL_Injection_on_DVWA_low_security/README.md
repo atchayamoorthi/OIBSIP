@@ -123,3 +123,5 @@ syntax" from "an actual SQL command."
 - **Salted password hashing** (e.g., bcrypt/Argon2) — even if SQLi is fixed, unsalted MD5
   leaves any historically-exposed data trivially crackable.
 
+## vedio captured :
+click here : https://www.linkedin.com/posts/atchaya-moorthi-j-263300382_cybersecurity-ethicalhacking-sqlinjection-activity-7484343179161296896-9tn-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF5fhWsBgX0SZVxvEtQfxjLRWLlC29hIxpQ
