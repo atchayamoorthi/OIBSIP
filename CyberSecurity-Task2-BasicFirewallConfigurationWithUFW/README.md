@@ -36,3 +36,6 @@ RuleCommandReasonDefault deny incomingufw default deny incoming[your words]Defau
 Verification:
 
 sudo ufw status verbose
+
+## vedio captured :
+click here : https://www.linkedin.com/posts/atchaya-moorthi-j-263300382_oasisinfobyte-cybersecurity-oasisinfobyte-activity-7483248969859616770-NaAE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF5fhWsBgX0SZVxvEtQfxjLRWLlC29hIxpQ
