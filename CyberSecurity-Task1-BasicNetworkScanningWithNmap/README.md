@@ -62,3 +62,6 @@ between most feature updates, so Nmap can confidently say "Windows 10" but can't
 pinpoint the exact build from network traffic alone.
 
 
+## vedio captured :
+click here : https://www.linkedin.com/posts/atchaya-moorthi-j-263300382_oasisinfobyte-cybersecurity-oasisinfobyte-activity-7482882351170019328-jCdU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF5fhWsBgX0SZVxvEtQfxjLRWLlC29hIxpQ
+
